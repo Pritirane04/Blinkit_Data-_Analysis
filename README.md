@@ -49,4 +49,4 @@ Sales trends help in predicting future demand
 SQL queries improved data understanding and reporting
 
 
-This project demonstrates how SQL can be used to analyze quick-commerce data efficiently and generate actionable business insights for platforms like Blinkit Blinkit.
+This project demonstrates how SQL can be used to analyze quick-commerce data efficiently and generate actionable business insights for platforms like Blinkit.
